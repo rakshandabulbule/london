@@ -1,0 +1,21 @@
+:root{
+    --color-white: #fff;
+    --color-dark: #000;
+    --text-color-primary: #006a4d;
+    --text-color-sec: #69be28;
+    --color-grey: #3c3c3c;
+
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+ul li{
+    display: inline-block;
+}
+
+a:link,a:visited{
+    text-decoration: none;
+}
